@@ -25,6 +25,11 @@ Bom trabalho!
 
     Repositório [docker-question1](../../tree/main/repositories/docker-question1)
 
+R1. Olá!
+Verifiquei suas configurações e percebi que em seu arquivo de configurações do Go, o apontamento da porta esta para 8080, porém, em seu docker-compose, você está tentando ler na porta 80 e expor a porta 8080.
+Tente alterar seu docker-compose indicando a mesma porta que você colocou em seu arquivo de configuração Go e então executar novamente.
+Qualquer dúvida, estou a disposição para lhe ajudar.
+
 <br><br>
 
 2. Olá,
